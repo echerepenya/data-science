@@ -1,0 +1,557 @@
+,brand,model,year,url,price_USD,km,location,fuel,transmission
+0,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_30603597.html,222000, 98 тис. км , Київ ," Бензин, 1.6 л. ", Автомат 
+1,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_30523794.html,7500, 121 тис. км , Дніпро (Дніпропетровськ) ," Газ / Бензин, 1.2 л. ", Ручна / Механіка 
+2,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_30571083.html,8499, 48 тис. км , Дніпро (Дніпропетровськ) ," Бензин, 1.25 л. ", Ручна / Механіка 
+3,Ford,Fiesta,2016,https://auto.ria.com/uk/auto_ford_fiesta_30528550.html,9700, 77 тис. км , Одеса ," Бензин, 1.25 л. ", Ручна / Механіка 
+4,Ford,Fiesta,2018,https://auto.ria.com/uk/auto_ford_fiesta_30629748.html,7600, 90 тис. км , Одеса ," Бензин, 1.6 л. ", Автомат 
+5,Ford,Fiesta,2010,https://auto.ria.com/uk/auto_ford_fiesta_30664262.html,7500, 154 тис. км , Запоріжжя ," Газ / Бензин, 1.25 л. ", Ручна / Механіка 
+6,Ford,Fiesta,2014,https://auto.ria.com/uk/auto_ford_fiesta_30647765.html,6900, 209 тис. км , Миколаїв ," Бензин, 1.6 л. ", Автомат 
+7,Ford,Fiesta,2009,https://auto.ria.com/uk/auto_ford_fiesta_30642625.html,5399, 187 тис. км , Рівне ," Бензин, 1.3 л. ", Ручна / Механіка 
+8,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30616164.html,3699, 151 тис. км , Тернопіль ," Бензин, 1.3 л. ", Ручна / Механіка 
+9,Ford,Fiesta,2018,https://auto.ria.com/uk/auto_ford_fiesta_30433701.html,9300, 67 тис. км , Львів ," Бензин, 1.6 л. ", Автомат 
+10,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_29088342.html,5100, 193 тис. км , Київ ," Бензин, 1.24 л. ", Ручна / Механіка 
+11,Ford,Fiesta,2016,https://auto.ria.com/uk/auto_ford_fiesta_30660921.html,7750, 96 тис. км , Київ ," Бензин, 1.6 л. ", Автомат 
+12,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30640803.html,3500, 265 тис. км , Київ ," Газ / Бензин, 1.3 л. ", Не вказано 
+13,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_30587414.html,9000, 136 тис. км , Київ ," Бензин, 1 л. ", Ручна / Механіка 
+14,Ford,Fiesta,2016,https://auto.ria.com/uk/auto_ford_fiesta_30578983.html,10800, 58 тис. км , Дніпро (Дніпропетровськ) ," Бензин, 1 л. ", Автомат 
+15,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_29864818.html,4050, 206 тис. км , Стрий ," Газ / Бензин, 1.25 л. ", Ручна / Механіка 
+16,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_30533955.html,4999, 125 тис. км , Суми ," Газ / Бензин, 1.2 л. ", Ручна / Механіка 
+17,Ford,Fiesta,2017,https://auto.ria.com/uk/auto_ford_fiesta_30489058.html,9000, 100 тис. км , Шостка ," Бензин, 1.6 л. ", Робот 
+18,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_30662226.html,6900, 93 тис. км , Запоріжжя ," Газ / Бензин, 1.2 л. ", Ручна / Механіка 
+19,Ford,Fiesta,2016,https://auto.ria.com/uk/auto_ford_fiesta_30559715.html,12500, 72 тис. км , Київ ," Бензин, 1.6 л. ", Ручна / Механіка 
+20,Ford,Fiesta,2017,https://auto.ria.com/uk/auto_ford_fiesta_30470466.html,9800, 45 тис. км , Київ ," Бензин, 1.6 л. ", Автомат 
+21,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_30641846.html,7900, 124 тис. км , Миколаїв ," Дизель, 1.5 л. ", Ручна / Механіка 
+22,Ford,Fiesta,2014,https://auto.ria.com/uk/auto_ford_fiesta_30369162.html,8700, 84 тис. км , Київ ," Бензин, 1.6 л. ", Не вказано 
+23,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30638079.html,4400, 183 тис. км , Київ ," Бензин, 1.3 л. ", Ручна / Механіка 
+24,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_30615070.html,8300, 95 тис. км , Покровськ (Красноармійськ) ," Бензин, 1.6 л. ", Автомат 
+25,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_30595298.html,4100, 162 тис. км , Житомир ," Бензин, 1.2 л. ", Ручна / Механіка 
+26,Ford,Fiesta,2002,https://auto.ria.com/uk/auto_ford_fiesta_29235883.html,4000, 230 тис. км , Свалява ," Дизель, 1.4 л. ", Ручна / Механіка 
+27,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_30531490.html,8000, 46 тис. км , Запоріжжя ," Бензин, 1 л. ", Ручна / Механіка 
+28,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_30663388.html,9300, 24 тис. км , Київ ," Бензин, 1.4 л. ", Автомат 
+29,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_30662470.html,5900, 81 тис. км , Київ ," Бензин, 1 л. ", Ручна / Механіка 
+30,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_27772919.html,5400, 148 тис. км , Запоріжжя ," Бензин, 1.4 л. ", Автомат 
+31,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30660210.html,4450, 197 тис. км , Одеса ," Бензин, 1.4 л. ", Ручна / Механіка 
+32,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30654211.html,4650, 130 тис. км , Одеса ," Бензин, 1.3 л. ", Ручна / Механіка 
+33,Ford,Fiesta,2009,https://auto.ria.com/uk/auto_ford_fiesta_30214067.html,5200, 120 тис. км , Умань ," Бензин, 1.4 л. ", Ручна / Механіка 
+34,Ford,Fiesta,2014,https://auto.ria.com/uk/auto_ford_fiesta_30305195.html,8900, 25 тис. км , Одеса ," Бензин, 1 л. ", Не вказано 
+35,Ford,Fiesta,2014,https://auto.ria.com/uk/auto_ford_fiesta_30643690.html,7999, 176 тис. км , Рівне ," Бензин, 1.6 л. ", Автомат 
+36,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_29654008.html,4600, 135 тис. км , Харків ," Бензин, 1.2 л. ", Ручна / Механіка 
+37,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_29768492.html,8500, 98 тис. км , Дніпро (Дніпропетровськ) ," Бензин, 1 л. ", Ручна / Механіка 
+38,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_30639830.html,5999, 124 тис. км , Мукачеве ," Бензин, 1 л. ", Ручна / Механіка 
+39,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_30355761.html,6999, 119 тис. км , Харків ," Бензин, 1 л. ", Ручна / Механіка 
+40,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_30637055.html,5800, 178 тис. км , Київ ," Бензин, 1 л. ", Ручна / Механіка 
+41,Ford,Fiesta,2002,https://auto.ria.com/uk/auto_ford_fiesta_30633841.html,4500, 324 тис. км , Біла Церква ," Дизель, 1.4 л. ", Ручна / Механіка 
+42,Ford,Fiesta,2016,https://auto.ria.com/uk/auto_ford_fiesta_29860355.html,10300, 64 тис. км , Вінниця ," Бензин, 1 л. ", Автомат 
+43,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_29398568.html,4499, 127 тис. км , Хмельницький ," Бензин, 1.4 л. ", Автомат 
+44,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_30607415.html,5500, 113 тис. км , Одеса ," Бензин, 1.2 л. ", Ручна / Механіка 
+45,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30052188.html,5700, 95 тис. км , Київ ," Бензин, 1.2 л. ", Ручна / Механіка 
+46,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_30179594.html,7800, 114 тис. км , Дніпро (Дніпропетровськ) ," Бензин, 1.4 л. ", Автомат 
+47,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_30532924.html,8300, 82 тис. км , Дніпро (Дніпропетровськ) ," Бензин, 1.4 л. ", Автомат 
+48,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30578555.html,5550, 126 тис. км , Кривий Ріг ," Бензин, 1.4 л. ", Типтронік 
+49,Ford,Fiesta,2016,https://auto.ria.com/uk/auto_ford_fiesta_30539604.html,9500, 23 тис. км , Вінниця ," Бензин, 1.6 л. ", Ручна / Механіка 
+50,Ford,Fiesta,2016,https://auto.ria.com/uk/auto_ford_fiesta_30515189.html,9900, 93 тис. км , Київ ," Бензин, 1 л. ", Автомат 
+51,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_27525481.html,5100, 163 тис. км , Гадяч ," Газ / Бензин, 1.4 л. ", Не вказано 
+52,Ford,Fiesta,2015,https://auto.ria.com/uk/auto_ford_fiesta_30250405.html,8900, 96 тис. км , Біла Церква ," Бензин, 1 л. ", Ручна / Механіка 
+53,Ford,Fiesta,2004,https://auto.ria.com/uk/auto_ford_fiesta_30670853.html,4700, 159 тис. км , Львів ," Бензин, 1.6 л. ", Ручна / Механіка 
+54,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_30058060.html,7300, 71 тис. км , Харків ," Бензин, 1 л. ", Ручна / Механіка 
+55,Ford,Fiesta,2002,https://auto.ria.com/uk/auto_ford_fiesta_30670202.html,3500, 212 тис. км , Київ ," Газ / Бензин, 1.3 л. ", Ручна / Механіка 
+56,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30309122.html,4900, 220 тис. км , Київ ," Бензин, 1.4 л. ", Не вказано 
+57,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_30669975.html,5000, 172 тис. км , Харків ," Бензин, 1.4 л. ", Ручна / Механіка 
+58,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_30670019.html,7800, 103 тис. км , Нова Каховка ," Газ / Бензин, 1.4 л. ", Автомат 
+59,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30375334.html,89000, 183 тис. км , Київ ," Газ / Бензин, 1.4 л. ", Ручна / Механіка 
+60,Ford,Fiesta,2015,https://auto.ria.com/uk/auto_ford_fiesta_30669650.html,7590, 133 тис. км , Одеса ," Бензин, 1.6 л. ", Автомат 
+61,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_29998244.html,4300, 195 тис. км , Харків ," Газ / Бензин, 1.25 л. ", Ручна / Механіка 
+62,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30668288.html,4700, 194 тис. км , Кам'янець-Подільський ," Бензин, 1.3 л. ", Ручна / Механіка 
+63,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_29300853.html,5999, 121 тис. км , Кропивницький (Кіровоград) ," Газ / Бензин, 1.4 л. ", Робот 
+64,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_30667985.html,8400, 83 тис. км , Дніпро (Дніпропетровськ) ," Бензин, 1.4 л. ", Автомат 
+65,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_30667847.html,6500, 100 тис. км , Чернігів ," Бензин, 1.25 л. ", Ручна / Механіка 
+66,Ford,Fiesta,2016,https://auto.ria.com/uk/auto_ford_fiesta_30667809.html,9500, 55 тис. км , Маріуполь , Бензин , Ручна / Механіка 
+67,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30106365.html,4150, 240 тис. км , Вінниця ," Дизель, 1.4 л. ", Ручна / Механіка 
+68,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_25438194.html,8500, 123 тис. км , Дніпро (Дніпропетровськ) ," Бензин, 1.6 л. ", Автомат 
+69,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30083366.html,4500, 181 тис. км , Тернопіль ," Бензин, 1.25 л. ", Ручна / Механіка 
+70,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_30666838.html,7800, 98 тис. км , Запоріжжя ," Бензин, 1.4 л. ", Автомат 
+71,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_30665247.html,4000, 161 тис. км , Київ ," Бензин, 1.3 л. ", Ручна / Механіка 
+72,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_22819631.html,6300, 168 тис. км , Херсон ," Газ / Бензин, 1.25 л. ", Ручна / Механіка 
+73,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_30665795.html,5750, 151 тис. км , Воловець ," Бензин, 1.4 л. ", Ручна / Механіка 
+74,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30664676.html,3950, 230 тис. км , Київ , Бензин , Робот 
+75,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30664615.html,6000, 90 тис. км , Кривий Ріг ," Бензин, 1.4 л. ", Не вказано 
+76,Ford,Fiesta,2016,https://auto.ria.com/uk/auto_ford_fiesta_30661946.html,9999, 19 тис. км , Харків ," Бензин, 1.6 л. ", Автомат 
+77,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_28894204.html,6200, 99 тис. км , Харків ," Бензин, 1.6 л. ", Робот 
+78,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_30660768.html,6500, 100 тис. км , Дніпро (Дніпропетровськ) ," Бензин, 1.3 л. ", Ручна / Механіка 
+79,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_28704375.html,4350, 219 тис. км , Ужгород ," Бензин, 1.25 л. ", Ручна / Механіка 
+80,Ford,Fiesta,2016,https://auto.ria.com/uk/auto_ford_fiesta_30065363.html,10500, 40 тис. км , Дніпро (Дніпропетровськ) ," Бензин, 1 л. ", Автомат 
+81,Ford,Fiesta,2005,https://auto.ria.com/uk/auto_ford_fiesta_30659088.html,3300, 175 тис. км , Одеса ," Бензин, 1.25 л. ", Ручна / Механіка 
+82,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30657704.html,5500, 172 тис. км , Запоріжжя ," Бензин, 1.4 л. ", Автомат 
+83,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_30656508.html,6450, 97 тис. км , Кропивницький (Кіровоград) ," Бензин, 1.25 л. ", Ручна / Механіка 
+84,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30656280.html,4800, 164 тис. км , Мукачеве ," Бензин, 1.4 л. ", Ручна / Механіка 
+85,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30656166.html,6200, 130 тис. км , Київ ," Бензин, 2 л. ", Ручна / Механіка 
+86,Ford,Fiesta,1989,https://auto.ria.com/uk/auto_ford_fiesta_29967653.html,400, 199 тис. км , Одеса , Бензин , Ручна / Механіка 
+87,Ford,Fiesta,2014,https://auto.ria.com/uk/auto_ford_fiesta_29601105.html,8699, 78 тис. км , Теребовля ," Бензин, 1.6 л. ", Автомат 
+88,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_28201432.html,6600, 65 тис. км , Харків ," Бензин, 1 л. ", Ручна / Механіка 
+89,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30051604.html,4000, 260 тис. км , Бердянськ , 1.25 л. , Ручна / Механіка 
+90,Ford,Fiesta,2015,https://auto.ria.com/uk/auto_ford_fiesta_29997226.html,8150, 111 тис. км , Ніжин ," Дизель, 1.5 л. ", Ручна / Механіка 
+91,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30653191.html,5000, 161 тис. км , Кривий Ріг ," Бензин, 1.6 л. ", Ручна / Механіка 
+92,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30653006.html,4300, 106 тис. км , Львів ," Бензин, 1.4 л. ", Ручна / Механіка 
+93,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_28902055.html,3999, 121 тис. км , Київ ," Бензин, 1.4 л. ", Робот 
+94,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_29816678.html,5900, 169 тис. км , Бориспіль ," Бензин, 1.2 л. ", Ручна / Механіка 
+95,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30652658.html,4500, 225 тис. км , Одеса ," Бензин, 1.4 л. ", Ручна / Механіка 
+96,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_30652520.html,7035, 141 тис. км , Богодухів ," Дизель, 1.4 л. ", Ручна / Механіка 
+97,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_30651171.html,7000, 112 тис. км , Коростень ," Бензин, 1 л. ", Ручна / Механіка 
+98,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_30650916.html,5500, 130 тис. км , Біла Церква , Газ / Бензин , Автомат 
+99,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_30648398.html,5350, 151 тис. км , Івано-Франківськ , Бензин , Ручна / Механіка 
+100,Ford,Fiesta,2014,https://auto.ria.com/uk/auto_ford_fiesta_30648182.html,7300, 165 тис. км , Львів ," Дизель, 1.5 л. ", Ручна / Механіка 
+101,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30648105.html,5400, 110 тис. км , Київ ," Бензин, 1.4 л. ", Робот 
+102,Ford,Fiesta,1993,https://auto.ria.com/uk/auto_ford_fiesta_30647995.html,500, 100 тис. км , Фастів ," Бензин, 1.3 л. ", Ручна / Механіка 
+103,Ford,Fiesta,2010,https://auto.ria.com/uk/auto_ford_fiesta_30327952.html,6999, 190 тис. км , Житомир ," Дизель, 1.6 л. ", Ручна / Механіка 
+104,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30647679.html,3800, 244 тис. км , Київ ," Газ / Бензин, 1.25 л. ", Ручна / Механіка 
+105,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30646085.html,4800, 390 тис. км , Біла Церква , Газ / Бензин , Ручна / Механіка 
+106,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30635352.html,4450, 200 тис. км , Коломия ," Дизель, 1.4 л. ", Ручна / Механіка 
+107,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_30643994.html,9500, 59 тис. км , Харків ," Бензин, 1.4 л. ", Автомат 
+108,Ford,Fiesta,2018,https://auto.ria.com/uk/auto_ford_fiesta_30642847.html,8700, 107 тис. км , Васильків ," Бензин, 1.6 л. ", Автомат 
+109,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_30641674.html,8000, 55 тис. км , Київ ," Бензин, 1.2 л. ", Ручна / Механіка 
+110,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_30641160.html,7900, 97 тис. км , Київ ," Газ / Бензин, 1.4 л. ", Автомат 
+111,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_29929993.html,4800, 170 тис. км , Стрий ," Дизель, 1.4 л. ", Ручна / Механіка 
+112,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_29798963.html,5300, 226 тис. км , Бережани ," Дизель, 1.6 л. ", Ручна / Механіка 
+113,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_30639509.html,6400, 239 тис. км , Львів ," Дизель, 1.6 л. ", Ручна / Механіка 
+114,Ford,Fiesta,1991,https://auto.ria.com/uk/auto_ford_fiesta_29262156.html,1650, 309 тис. км , Одеса ," Бензин, 1.1 л. ", Не вказано 
+115,Ford,Fiesta,2018,https://auto.ria.com/uk/auto_ford_fiesta_30639078.html,9200, 27 тис. км , Кропивницький (Кіровоград) ," Бензин, 1.6 л. ", Автомат 
+116,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_30293703.html,6999, 123 тис. км , Маріуполь ," Бензин, 1.2 л. ", Ручна / Механіка 
+117,Ford,Fiesta,2018,https://auto.ria.com/uk/auto_ford_fiesta_29464091.html,8900, 6 тис. км , Харків ," Бензин, 1.6 л. ", Автомат 
+118,Ford,Fiesta,2014,https://auto.ria.com/uk/auto_ford_fiesta_29230537.html,7900, 129 тис. км , Київ ," Бензин, 1 л. ", Автомат 
+119,Ford,Fiesta,2015,https://auto.ria.com/uk/auto_ford_fiesta_30638583.html,6799, 141 тис. км , Умань ," Дизель, 1.5 л. ", Ручна / Механіка 
+120,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_30234151.html,6300, 140 тис. км , Миколаїв ," Дизель, 1.4 л. ", Ручна / Механіка 
+121,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_27663552.html,3700, 178 тис. км , Київ ," Газ / Бензин, 1.25 л. ", Ручна / Механіка 
+122,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_30638199.html,4250, 230 тис. км , Львів ," Газ / Бензин, 1.4 л. ", Ручна / Механіка 
+123,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_30183313.html,6750, 144 тис. км , Київ ," Бензин, 1 л. ", Ручна / Механіка 
+124,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_25885356.html,9700, 73 тис. км , Київ ," Газ / Бензин, 1.4 л. ", Автомат 
+125,Ford,Fiesta,2015,https://auto.ria.com/uk/auto_ford_fiesta_29578800.html,7400, 117 тис. км , Бориспіль ," Бензин, 1 л. ", Ручна / Механіка 
+126,Ford,Fiesta,2014,https://auto.ria.com/uk/auto_ford_fiesta_24071710.html,6999, 126 тис. км , Київ ," Дизель, 1.5 л. ", Ручна / Механіка 
+127,Ford,Fiesta,2017,https://auto.ria.com/uk/auto_ford_fiesta_30636825.html,9500, 57 тис. км , Львів ," Бензин, 1 л. ", Автомат 
+128,Ford,Fiesta,2017,https://auto.ria.com/uk/auto_ford_fiesta_30636823.html,9500, 57 тис. км , Львів ," Бензин, 1 л. ", Автомат 
+129,Ford,Fiesta,2009,https://auto.ria.com/uk/auto_ford_fiesta_30636777.html,5800, 164 тис. км , Калуш ," Бензин, 1.2 л. ", Не вказано 
+130,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_30576949.html,6500, 189 тис. км , Чортків ," Газ / Бензин, 1.2 л. ", Ручна / Механіка 
+131,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_26279403.html,4300, 139 тис. км , Херсон ," Бензин, 1.3 л. ", Ручна / Механіка 
+132,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_18635759.html,11500, 47 тис. км , Черкаси ," Бензин, 1.4 л. ", Автомат 
+133,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_30304237.html,6000, 198 тис. км , Ужгород ," Дизель, 1.4 л. ", Ручна / Механіка 
+134,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_30519694.html,3750, 270 тис. км , Львів ," Газ / Бензин, 1.4 л. ", Ручна / Механіка 
+135,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30311947.html,4700, 214 тис. км , Київ ," Бензин, 1.25 л. ", Ручна / Механіка 
+136,Ford,Fiesta,2005,https://auto.ria.com/uk/auto_ford_fiesta_29892025.html,4500, 131 тис. км , Кременчук ," Бензин, 1.3 л. ", Ручна / Механіка 
+137,Ford,Fiesta,2016,https://auto.ria.com/uk/auto_ford_fiesta_29686113.html,7977, 79 тис. км , Одеса ," Бензин, 1.6 л. ", Автомат 
+138,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_29638873.html,8150, 30 тис. км , Саврань ," Дизель, 1.5 л. ", Ручна / Механіка 
+139,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_30564331.html,4800, 160 тис. км , Київ ," Бензин, 1.4 л. ", Не вказано 
+140,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_26848308.html,7800, 95 тис. км , Рівне ," Бензин, 1.4 л. ", Автомат 
+141,Ford,Fiesta,2009,https://auto.ria.com/uk/auto_ford_fiesta_30627355.html,5500, 188 тис. км , Київ ," Дизель, 1.4 л. ", Ручна / Механіка 
+142,Ford,Fiesta,1990,https://auto.ria.com/uk/auto_ford_fiesta_30627173.html,1300, 333 тис. км , Чернівці ," Бензин, 1.1 л. ", Ручна / Механіка 
+143,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30626598.html,4500, 214 тис. км , Кропивницький (Кіровоград) ," Бензин, 1.3 л. ", Ручна / Механіка 
+144,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30625981.html,4700, 71 тис. км , Рівне ," Бензин, 1.3 л. ", Ручна / Механіка 
+145,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_30625057.html,6550, 224 тис. км , Луцьк ," Дизель, 1.6 л. ", Ручна / Механіка 
+146,Ford,Fiesta,1990,https://auto.ria.com/uk/auto_ford_fiesta_30465294.html,1600, 4 тис. км , Чернівці ," Бензин, 1.1 л. ", Ручна / Механіка 
+147,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30624187.html,4500, 214 тис. км , Київ ," Бензин, 1.25 л. ", Ручна / Механіка 
+148,Ford,Fiesta,2019,https://auto.ria.com/uk/auto_ford_fiesta_30623928.html,9300, 64 тис. км , Київ ," Бензин, 1.6 л. ", Автомат 
+149,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_30623891.html,7500, 178 тис. км , Острог ," Дизель, 1.6 л. ", Ручна / Механіка 
+150,Ford,Fiesta,2017,https://auto.ria.com/uk/auto_ford_fiesta_30622730.html,7777, 63 тис. км , Рівне ," Бензин, 1.6 л. ", Автомат 
+151,Ford,Fiesta,2010,https://auto.ria.com/uk/auto_ford_fiesta_30622242.html,5900, 203 тис. км , Івано-Франківськ ," Дизель, 1.4 л. ", Ручна / Механіка 
+152,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_29929718.html,4300, 100 тис. км , Сарни ," Бензин, 1.4 л. ", Робот 
+153,Ford,Fiesta,2005,https://auto.ria.com/uk/auto_ford_fiesta_30621529.html,4300, 214 тис. км , Лубни ," Бензин, 1.3 л. ", Ручна / Механіка 
+154,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30621092.html,5200, 210 тис. км , Київ ," Бензин, 1.4 л. ", Автомат 
+155,Ford,Fiesta,2014,https://auto.ria.com/uk/auto_ford_fiesta_30621059.html,7499, 98 тис. км , Київ ," Бензин, 1.6 л. ", Автомат 
+156,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_30620785.html,6500, 187 тис. км , Рожище ," Дизель, 1.6 л. ", Ручна / Механіка 
+157,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_30620282.html,6400, 247 тис. км , Київ ," Бензин, 1.6 л. ", Автомат 
+158,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_28086641.html,4480, 280 тис. км , Одеса ," Бензин, 1.25 л. ", Ручна / Механіка 
+159,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_22704105.html,4500, 195 тис. км , Кременчук ," Газ / Бензин, 1.4 л. ", Типтронік 
+160,Ford,Fiesta,2005,https://auto.ria.com/uk/auto_ford_fiesta_30344913.html,4200, 224 тис. км , Ізяслав ," Бензин, 1.3 л. ", Ручна / Механіка 
+161,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_30149621.html,4750, 211 тис. км , Дніпро (Дніпропетровськ) ," Бензин, 1.4 л. ", Робот 
+162,Ford,Fiesta,2004,https://auto.ria.com/uk/auto_ford_fiesta_30617089.html,3100, 228 тис. км , Київ ," Бензин, 1.3 л. ", Ручна / Механіка 
+163,Ford,Fiesta,2015,https://auto.ria.com/uk/auto_ford_fiesta_30303346.html,7400, 150 тис. км , Коломия ," Дизель, 1.5 л. ", Ручна / Механіка 
+164,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30616409.html,3999, 246 тис. км , Луцьк ," Бензин, 1.3 л. ", Ручна / Механіка 
+165,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30329781.html,5000, 146 тис. км , Красноград ," Бензин, 1.4 л. ", Ручна / Механіка 
+166,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30614986.html,4550, 113 тис. км , Харків ," Бензин, 1.3 л. ", Ручна / Механіка 
+167,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_30614874.html,6799, 167 тис. км , Макарів ," Бензин, 1.25 л. ", Ручна / Механіка 
+168,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30614724.html,4900, 139 тис. км , Слов'янськ ," Бензин, 1.4 л. ", Не вказано 
+169,Ford,Fiesta,2009,https://auto.ria.com/uk/auto_ford_fiesta_28329904.html,6250, 174 тис. км , Вінниця ," Бензин, 1.3 л. ", Ручна / Механіка 
+170,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_30613877.html,4800, 165 тис. км , Запоріжжя ," Бензин, 1.2 л. ", Ручна / Механіка 
+171,Ford,Fiesta,2016,https://auto.ria.com/uk/auto_ford_fiesta_30613834.html,7999, 91 тис. км , Київ ," Бензин, 1.6 л. ", Автомат 
+172,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_30276510.html,3999, 101 тис. км , Ужгород , Бензин , Ручна / Механіка 
+173,Ford,Fiesta,2014,https://auto.ria.com/uk/auto_ford_fiesta_30610767.html,7799, 123 тис. км , Вінниця ," Бензин, 1.6 л. ", Автомат 
+174,Ford,Fiesta,2017,https://auto.ria.com/uk/auto_ford_fiesta_30611322.html,8500, 31 тис. км , Біла Церква ," Бензин, 1.6 л. ", Автомат 
+175,Ford,Fiesta,2019,https://auto.ria.com/uk/auto_ford_fiesta_30610742.html,8700, 57 тис. км , Одеса ," Бензин, 1.6 л. ", Автомат 
+176,Ford,Fiesta,2005,https://auto.ria.com/uk/auto_ford_fiesta_30609657.html,3900, 151 тис. км , Житомир ," Бензин, 1.4 л. ", Ручна / Механіка 
+177,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_30609508.html,4450, 205 тис. км , Бердичів ," Бензин, 1.25 л. ", Ручна / Механіка 
+178,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30609368.html,5000, 175 тис. км , Калуш ," Бензин, 1.2 л. ", Ручна / Механіка 
+179,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_30607117.html,5200, 145 тис. км , Кривий Ріг ," Бензин, 1.4 л. ", Ручна / Механіка 
+180,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30606898.html,5900, 46 тис. км , Харків ," Бензин, 1.3 л. ", Ручна / Механіка 
+181,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30606820.html,6299, 127 тис. км , Ірпінь ," Бензин, 2 л. ", Ручна / Механіка 
+182,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_29303356.html,4900, 148 тис. км , Черкаси ," Бензин, 1.4 л. ", Робот 
+183,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_30605693.html,9200, 105 тис. км , Дніпро (Дніпропетровськ) , Дизель , Ручна / Механіка 
+184,Ford,Fiesta,2005,https://auto.ria.com/uk/auto_ford_fiesta_29328828.html,4200, 153 тис. км , Івано-Франківськ ," Бензин, 1.3 л. ", Ручна / Механіка 
+185,Ford,Fiesta,2018,https://auto.ria.com/uk/auto_ford_fiesta_30604229.html,9500, 75 тис. км , Маріуполь ," Бензин, 1.6 л. ", Автомат 
+186,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_27684810.html,8000, 80 тис. км , Люботин ," Бензин, 1 л. ", Ручна / Механіка 
+187,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_30602964.html,6950, 73 тис. км , Львів ," Бензин, 1 л. ", Ручна / Механіка 
+188,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_28655126.html,5200, 126 тис. км , Мелітополь ," Бензин, 1.4 л. ", Ручна / Механіка 
+189,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_29806927.html,4000, 194 тис. км , Київ ," Газ / Бензин, 1.4 л. ", Ручна / Механіка 
+190,Ford,Fiesta,2005,https://auto.ria.com/uk/auto_ford_fiesta_30236034.html,5200, 93 тис. км , Хмельницький ," Бензин, 1.3 л. ", Ручна / Механіка 
+191,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_29002952.html,4700, 137 тис. км , Житомир ," Газ / Бензин, 1.2 л. ", Ручна / Механіка 
+192,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30602295.html,4300, 160 тис. км , Львів ," Бензин, 1.2 л. ", Ручна / Механіка 
+193,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_30602168.html,7600, 104 тис. км , Київ ," Бензин, 1.4 л. ", Типтронік 
+194,Ford,Fiesta,2014,https://auto.ria.com/uk/auto_ford_fiesta_24370182.html,10800, 41 тис. км , Київ ," Бензин, 1 л. ", Автомат 
+195,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_29755498.html,9500, 32 тис. км , Київ ," Бензин, 1.6 л. ", Автомат 
+196,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30600726.html,4900, 211 тис. км , Київ ," Газ / Бензин, 1.4 л. ", Ручна / Механіка 
+197,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30600323.html,4200, 151 тис. км , Черкаси ," Бензин, 1.3 л. ", Ручна / Механіка 
+198,Ford,Fiesta,2009,https://auto.ria.com/uk/auto_ford_fiesta_30600326.html,5150, 129 тис. км , Хмельницький ," Бензин, 1.2 л. ", Ручна / Механіка 
+199,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_30600215.html,4400, 180 тис. км , Черкаси ," Бензин, 1.4 л. ", Ручна / Механіка 
+200,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_30599835.html,3500, 174 тис. км , Черкаси ," Газ / Бензин, 1.4 л. ", Автомат 
+201,Ford,Fiesta,2010,https://auto.ria.com/uk/auto_ford_fiesta_30313830.html,7500, 97 тис. км , Запоріжжя ," Бензин, 1.4 л. ", Автомат 
+202,Ford,Fiesta,2015,https://auto.ria.com/uk/auto_ford_fiesta_30411201.html,9000, 90 тис. км , Кривий Ріг ," Дизель, 1.6 л. ", Ручна / Механіка 
+203,Ford,Fiesta,2014,https://auto.ria.com/uk/auto_ford_fiesta_29682181.html,7650, 150 тис. км , Житомир ," Бензин, 1.6 л. ", Автомат 
+204,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_30598361.html,7500, 177 тис. км , Луцьк ," Бензин, 1.6 л. ", Автомат 
+205,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30174175.html,4900, 166 тис. км , Львів ," Бензин, 2 л. ", Не вказано 
+206,Ford,Fiesta,2015,https://auto.ria.com/uk/auto_ford_fiesta_26535304.html,9000, 54 тис. км , Залізний Порт ," Бензин, 1 л. ", Автомат 
+207,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_30597203.html,7100, 145 тис. км , Чернівці ," Бензин, 1.25 л. ", Ручна / Механіка 
+208,Ford,Fiesta,2016,https://auto.ria.com/uk/auto_ford_fiesta_30596118.html,7400, 104 тис. км , Київ ," Бензин, 1 л. ", Автомат 
+209,Ford,Fiesta,1988,https://auto.ria.com/uk/auto_ford_fiesta_30310942.html,1050, 193 тис. км , Кіцмань ," Бензин, 1.1 л. ", Ручна / Механіка 
+210,Ford,Fiesta,1996,https://auto.ria.com/uk/auto_ford_fiesta_28046873.html,2300, 92 тис. км , Житомир ," Бензин, 1.25 л. ", Не вказано 
+211,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_26688062.html,9200, 89 тис. км , Вінниця ," Газ / Бензин, 1.4 л. ", Автомат 
+212,Ford,Fiesta,2004,https://auto.ria.com/uk/auto_ford_fiesta_30594495.html,3700, 189 тис. км , Київ ," Бензин, 1.3 л. ", Ручна / Механіка 
+213,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_30594250.html,6550, 165 тис. км , Львів ," Дизель, 1.4 л. ", Не вказано 
+214,Ford,Fiesta,1993,https://auto.ria.com/uk/auto_ford_fiesta_30594012.html,1499, 10 тис. км , Львів ," Бензин, 1.3 л. ", Ручна / Механіка 
+215,Ford,Fiesta,1998,https://auto.ria.com/uk/auto_ford_fiesta_30592967.html,3499, 89 тис. км , Березне ," Бензин, 1.25 л. ", Ручна / Механіка 
+216,Ford,Fiesta,2005,https://auto.ria.com/uk/auto_ford_fiesta_28488466.html,4000, 222 тис. км , Львів ," Бензин, 1.2 л. ", Ручна / Механіка 
+217,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30592066.html,1400, 240 тис. км , Луцьк ," Дизель, 1.4 л. ", Ручна / Механіка 
+218,Ford,Fiesta,2016,https://auto.ria.com/uk/auto_ford_fiesta_30591774.html,7500, 117 тис. км , Черкаси ," Газ / Бензин, 1.4 л. ", Ручна / Механіка 
+219,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_30295918.html,5499, 87 тис. км , Житомир ," Бензин, 1.4 л. ", Не вказано 
+220,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_30590327.html,7700, 77 тис. км , Маріуполь ," Бензин, 1 л. ", Ручна / Механіка 
+221,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30590396.html,4050, 171 тис. км , Київ ," Газ / Бензин, 1.2 л. ", Ручна / Механіка 
+222,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_30586589.html,4800, 100 тис. км , Тячів ," Бензин, 1.4 л. ", Ручна / Механіка 
+223,Ford,Fiesta,2009,https://auto.ria.com/uk/auto_ford_fiesta_29547813.html,5900, 107 тис. км , Запоріжжя ," Бензин, 1.2 л. ", Ручна / Механіка 
+224,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_19120722.html,5000, 126 тис. км , Ужгород ," Газ / Бензин, 1.4 л. ", Ручна / Механіка 
+225,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_29989796.html,4200, 106 тис. км , Городенка ," Бензин, 1.25 л. ", Ручна / Механіка 
+226,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30300256.html,5200, 108 тис. км , Житомир ," Газ / Бензин, 1.2 л. ", Ручна / Механіка 
+227,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_29422663.html,6500, 125 тис. км , Київ ," Дизель, 1.4 л. ", Ручна / Механіка 
+228,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_29950140.html,4350, 150 тис. км , Дніпро (Дніпропетровськ) ," Бензин, 1.25 л. ", Ручна / Механіка 
+229,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30585861.html,4500, 162 тис. км , Вишневе ," Бензин, 1.4 л. ", Ручна / Механіка 
+230,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_29900945.html,5200, 180 тис. км , Харків ," Газ / Бензин, 1.4 л. ", Ручна / Механіка 
+231,Ford,Fiesta,2015,https://auto.ria.com/uk/auto_ford_fiesta_30585227.html,8900, 75 тис. км , Харків ," Бензин, 1.6 л. ", Робот 
+232,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30584786.html,4200, 150 тис. км , Житомир ," Газ / Бензин, 1.3 л. ", Ручна / Механіка 
+233,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_29568063.html,6200, 170 тис. км , Дніпро (Дніпропетровськ) ," Бензин, 1.2 л. ", Ручна / Механіка 
+234,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_29910826.html,4000, 250 тис. км , Чернігів ," Газ / Бензин, 1.3 л. ", Ручна / Механіка 
+235,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_30235631.html,7200, 113 тис. км , Київ ," Бензин, 1.25 л. ", Ручна / Механіка 
+236,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30296515.html,4600, 164 тис. км , Житомир ," Бензин, 1.3 л. ", Ручна / Механіка 
+237,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30583418.html,4950, 165 тис. км , Коростень ," Бензин, 1.3 л. ", Ручна / Механіка 
+238,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_26078359.html,4500, 143 тис. км , Кропивницький (Кіровоград) ," Газ / Бензин, 1.4 л. ", Ручна / Механіка 
+239,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_29998299.html,5800, 150 тис. км , Хмельницький ," Бензин, 1.4 л. ", Ручна / Механіка 
+240,Ford,Fiesta,2016,https://auto.ria.com/uk/auto_ford_fiesta_30582627.html,8700, 85 тис. км , Краматорськ ," Бензин, 1.2 л. ", Ручна / Механіка 
+241,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_29649794.html,4400, 198 тис. км , Одеса ," Бензин, 1.2 л. ", Ручна / Механіка 
+242,Ford,Fiesta,2005,https://auto.ria.com/uk/auto_ford_fiesta_17186168.html,5200, 128 тис. км , Київ ," Бензин, 1.25 л. ", Ручна / Механіка 
+243,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_28596577.html,3950, 265 тис. км , Рівне ," Бензин, 1.3 л. ", Ручна / Механіка 
+244,Ford,Fiesta,2005,https://auto.ria.com/uk/auto_ford_fiesta_30453794.html,4550, 88 тис. км , Самбір ," Бензин, 1.4 л. ", Ручна / Механіка 
+245,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30580367.html,4500, 300 тис. км , Київ ," Газ / Бензин, 1.2 л. ", Не вказано 
+246,Ford,Fiesta,2017,https://auto.ria.com/uk/auto_ford_fiesta_30276041.html,8900, 143 тис. км , Київ ," Бензин, 1.6 л. ", Автомат 
+247,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30578875.html,5200, 220 тис. км , Ніжин ," Бензин, 1.4 л. ", Робот 
+248,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_30578624.html,7200, 92 тис. км , Миргород ," Бензин, 1.25 л. ", Ручна / Механіка 
+249,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_30246138.html,6450, 68 тис. км , Вінниця ," Бензин, 1.6 л. ", Автомат 
+250,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_27973519.html,5300, 177 тис. км , Київ ," Бензин, 1.3 л. ", Робот 
+251,Ford,Fiesta,2014,https://auto.ria.com/uk/auto_ford_fiesta_30578037.html,7800, 132 тис. км , Одеса ," Дизель, 1.5 л. ", Ручна / Механіка 
+252,Ford,Fiesta,1991,https://auto.ria.com/uk/auto_ford_fiesta_30577495.html,1450, 240 тис. км , Запоріжжя ," Дизель, 1.8 л. ", Ручна / Механіка 
+253,Ford,Fiesta,1993,https://auto.ria.com/uk/auto_ford_fiesta_30577314.html,2500, 51 тис. км , Київ ," Газ / Бензин, 1.1 л. ", Ручна / Механіка 
+254,Ford,Fiesta,2016,https://auto.ria.com/uk/auto_ford_fiesta_30577140.html,7000, 230 тис. км , Одеса ," Бензин, 1.2 л. ", Ручна / Механіка 
+255,Ford,Fiesta,1993,https://auto.ria.com/uk/auto_ford_fiesta_30576966.html,1100, 180 тис. км , Чернівці , Бензин , Ручна / Механіка 
+256,Ford,Fiesta,2019,https://auto.ria.com/uk/auto_ford_fiesta_30285155.html,9800, 122 тис. км , Київ ," Дизель, 1.5 л. ", Ручна / Механіка 
+257,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_30234065.html,6950, 145 тис. км , Калуш ," Бензин, 1.25 л. ", Ручна / Механіка 
+258,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_30266499.html,6000, 115 тис. км , Краматорськ ," Бензин, 1 л. ", Ручна / Механіка 
+259,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_30575350.html,6500, 136 тис. км , Київ ," Газ / Бензин, 1.2 л. ", Ручна / Механіка 
+260,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_27392592.html,4350, 183 тис. км , Обухів , Не вказано , Ручна / Механіка 
+261,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_25427218.html,4200, 230 тис. км , Здолбунів , Бензин , Ручна / Механіка 
+262,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_20295398.html,5300, 190 тис. км , Вишневе ," Бензин, 1.3 л. ", Ручна / Механіка 
+263,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_30144277.html,4700, 216 тис. км , Одеса ," Дизель, 1.4 л. ", Ручна / Механіка 
+264,Ford,Fiesta,2018,https://auto.ria.com/uk/auto_ford_fiesta_30573742.html,8599, 43 тис. км , Одеса ," Бензин, 1.6 л. ", Автомат 
+265,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_30573390.html,8500, 117 тис. км , Покровськ (Красноармійськ) ," Газ / Бензин, 1.6 л. ", Автомат 
+266,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_30573236.html,7800, 183 тис. км , Чорноморськ (Іллічівськ) ," Бензин, 1.6 л. ", Автомат 
+267,Ford,Fiesta,2016,https://auto.ria.com/uk/auto_ford_fiesta_30572952.html,9100, 79 тис. км , Одеса ," Бензин, 1.6 л. ", Автомат 
+268,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_29294025.html,7000, 187 тис. км , Львів ," Дизель, 1.4 л. ", Ручна / Механіка 
+269,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_27247095.html,5900, 103 тис. км , Суми ," Бензин, 1.2 л. ", Ручна / Механіка 
+270,Ford,Fiesta,2018,https://auto.ria.com/uk/auto_ford_fiesta_30571398.html,13300, 38 тис. км , Харків ," Бензин, 1.6 л. ", Ручна / Механіка 
+271,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_30571793.html,6666, 180 тис. км , Київ ," Бензин, 1 л. ", Ручна / Механіка 
+272,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30314842.html,3150, 280 тис. км , Острог ," Дизель, 1.4 л. ", Ручна / Механіка 
+273,Ford,Fiesta,1987,https://auto.ria.com/uk/auto_ford_fiesta_30570523.html,700, 53 тис. км , Кілія ," Бензин, 1.1 л. ", Ручна / Механіка 
+274,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30570214.html,4900, 121 тис. км , Вінниця ," Газ / Бензин, 1.4 л. ", Робот 
+275,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30570032.html,4400, 195 тис. км , Київ ," Газ / Бензин, 1.4 л. ", Ручна / Механіка 
+276,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_30569078.html,6499, 132 тис. км , Вінниця ," Дизель, 1.6 л. ", Ручна / Механіка 
+277,Ford,Fiesta,1999,https://auto.ria.com/uk/auto_ford_fiesta_29325112.html,2150, 150 тис. км , Івано-Франківськ ," Бензин, 1.3 л. ", Ручна / Механіка 
+278,Ford,Fiesta,2015,https://auto.ria.com/uk/auto_ford_fiesta_30530224.html,6700, 149 тис. км , Хмельницький ," Бензин, 1 л. ", Ручна / Механіка 
+279,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_19348026.html,5000, 177 тис. км , Суми ," Газ / Бензин, 1.24 л. ", Ручна / Механіка 
+280,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30566162.html,4799, 135 тис. км , Київ ," Бензин, 1.4 л. ", Ручна / Механіка 
+281,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_30566003.html,8500, 33 тис. км , Ясинувата ," Бензин, 1.4 л. ", Типтронік 
+282,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30564869.html,3200, 153 тис. км , Київ ," Газ / Бензин, 1.2 л. ", Ручна / Механіка 
+283,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_30564450.html,4400, 207 тис. км , Бородянка ," Газ / Бензин, 1.3 л. ", Ручна / Механіка 
+284,Ford,Fiesta,2014,https://auto.ria.com/uk/auto_ford_fiesta_29278330.html,8100, 67 тис. км , Житомир ," Дизель, 1.5 л. ", Ручна / Механіка 
+285,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_30563887.html,8600, 71 тис. км , Київ ," Бензин, 1.4 л. ", Автомат 
+286,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_30563206.html,5100, 120 тис. км , Бориспіль ," Бензин, 1.4 л. ", Ручна / Механіка 
+287,Ford,Fiesta,2005,https://auto.ria.com/uk/auto_ford_fiesta_30005216.html,4300, 148 тис. км , Івано-Франківськ ," Бензин, 1.3 л. ", Ручна / Механіка 
+288,Ford,Fiesta,2017,https://auto.ria.com/uk/auto_ford_fiesta_30562961.html,7900, 111 тис. км , Луцьк ," Бензин, 1 л. ", Ручна / Механіка 
+289,Ford,Fiesta,2017,https://auto.ria.com/uk/auto_ford_fiesta_30562540.html,8600, 76 тис. км , Дніпро (Дніпропетровськ) ," Бензин, 1.3 л. ", Ручна / Механіка 
+290,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30562092.html,4500, 220 тис. км , Рівне ," Дизель, 1.4 л. ", Не вказано 
+291,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_29841432.html,6300, 111 тис. км , Чернігів ," Бензин, 1 л. ", Ручна / Механіка 
+292,Ford,Fiesta,2010,https://auto.ria.com/uk/auto_ford_fiesta_29947543.html,4800, 157 тис. км , Львів ," Дизель, 1.4 л. ", Ручна / Механіка 
+293,Ford,Fiesta,1998,https://auto.ria.com/uk/auto_ford_fiesta_30560278.html,2000, 208 тис. км , Новояворівськ ," Бензин, 1.25 л. ", Ручна / Механіка 
+294,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_29527843.html,7800, 150 тис. км , Київ ," Бензин, 1 л. ", Ручна / Механіка 
+295,Ford,Fiesta,2015,https://auto.ria.com/uk/auto_ford_fiesta_30560036.html,9300, 150 тис. км , Київ ," Газ / Бензин, 1.6 л. ", Не вказано 
+296,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_29646381.html,4400, 236 тис. км , Київ ," Бензин, 1.25 л. ", Ручна / Механіка 
+297,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30558887.html,4300, 201 тис. км , Ірпінь ," Бензин, 1.2 л. ", Ручна / Механіка 
+298,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30558803.html,4200, 260 тис. км , Львів ," Бензин, 1.3 л. ", Ручна / Механіка 
+299,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_29844628.html,6800, 116 тис. км , Ірпінь ," Бензин, 1.2 л. ", Ручна / Механіка 
+300,Ford,Fiesta,2015,https://auto.ria.com/uk/auto_ford_fiesta_30557883.html,8000, 58 тис. км , Кам'янське (Дніпродзержинськ) , Бензин , Ручна / Механіка 
+301,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_30557951.html,6500, 138 тис. км , Кролевець , Бензин , Ручна / Механіка 
+302,Ford,Fiesta,2010,https://auto.ria.com/uk/auto_ford_fiesta_30555684.html,5200, 94 тис. км , Київ ," Бензин, 1.25 л. ", Ручна / Механіка 
+303,Ford,Fiesta,2005,https://auto.ria.com/uk/auto_ford_fiesta_29760107.html,3999, 260 тис. км , Рівне ," Газ / Бензин, 1.4 л. ", Ручна / Механіка 
+304,Ford,Fiesta,2010,https://auto.ria.com/uk/auto_ford_fiesta_30555297.html,7400, 50 тис. км , Львів ," Бензин, 1.2 л. ", Ручна / Механіка 
+305,Ford,Fiesta,2010,https://auto.ria.com/uk/auto_ford_fiesta_30554520.html,6900, 109 тис. км , Київ ," Бензин, 1.4 л. ", Не вказано 
+306,Ford,Fiesta,2004,https://auto.ria.com/uk/auto_ford_fiesta_30554488.html,4500, 174 тис. км , Біла Церква , Бензин , Ручна / Механіка 
+307,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_30264999.html,9700, 104 тис. км , Миколаїв ," Бензин, 1.6 л. ", Ручна / Механіка 
+308,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_30553676.html,7400, 85 тис. км , Херсон ," Бензин, 1 л. ", Ручна / Механіка 
+309,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_30552918.html,5101, 194 тис. км , Черкаси ," Бензин, 1.4 л. ", Не вказано 
+310,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_29200392.html,4950, 157 тис. км , Київ ," Бензин, 1.4 л. ", Робот 
+311,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30551127.html,5100, 117 тис. км , Бучач ," Дизель, 1.4 л. ", Ручна / Механіка 
+312,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_28532813.html,5100, 122 тис. км , Харків ," Бензин, 1.2 л. ", Ручна / Механіка 
+313,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_23218381.html,6150, 78 тис. км , Київ ," Бензин, 1 л. ", Ручна / Механіка 
+314,Ford,Fiesta,2004,https://auto.ria.com/uk/auto_ford_fiesta_17900286.html,4300, 185 тис. км , Нововолинськ ," Бензин, 1.3 л. ", Ручна / Механіка 
+315,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30551005.html,4150, 180 тис. км , Кропивницький (Кіровоград) , 1.3 л. , Ручна / Механіка 
+316,Ford,Fiesta,2005,https://auto.ria.com/uk/auto_ford_fiesta_30127171.html,4299, 218 тис. км , Житомир ," Бензин, 1.4 л. ", Ручна / Механіка 
+317,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30094290.html,4500, 165 тис. км , Харків , Бензин , Ручна / Механіка 
+318,Ford,Fiesta,1997,https://auto.ria.com/uk/auto_ford_fiesta_30195843.html,749, 287 тис. км , Чернівці ," Бензин, 1.3 л. ", Ручна / Механіка 
+319,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_29218193.html,4100, 140 тис. км , Житомир ," Бензин, 1.4 л. ", Робот 
+320,Ford,Fiesta,2018,https://auto.ria.com/uk/auto_ford_fiesta_30547917.html,9000, 44 тис. км , Запоріжжя ," Бензин, 1.6 л. ", Автомат 
+321,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_30547317.html,200000, 90 тис. км , Київ ," Бензин, 1 л. ", Ручна / Механіка 
+322,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_30547075.html,5600, 200 тис. км , Ковель , 1.3 л. , Ручна / Механіка 
+323,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30546490.html,6300, 127 тис. км , Київ ," Бензин, 2 л. ", Ручна / Механіка 
+324,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30545780.html,6000, 99 тис. км , Остер , Бензин , Ручна / Механіка 
+325,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30545719.html,5100, 136 тис. км , Запоріжжя ," Дизель, 1.4 л. ", Не вказано 
+326,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_30545169.html,6000, 123 тис. км , Львів ," Бензин, 1.6 л. ", Не вказано 
+327,Ford,Fiesta,1998,https://auto.ria.com/uk/auto_ford_fiesta_30544980.html,3000, 20 тис. км , Захарівка (Фрунзівка) ," Бензин, 1.3 л. ", Ручна / Механіка 
+328,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_30251490.html,5300, 102 тис. км , Сарата ," Дизель, 1.4 л. ", Ручна / Механіка 
+329,Ford,Fiesta,2016,https://auto.ria.com/uk/auto_ford_fiesta_30544455.html,8900, 61 тис. км , Дніпро (Дніпропетровськ) ," Бензин, 1 л. ", Робот 
+330,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_29607469.html,8700, 112 тис. км , Миколаїв ," Бензин, 1.4 л. ", Автомат 
+331,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_29489612.html,6200, 180 тис. км , Львів ," Дизель, 1.6 л. ", Ручна / Механіка 
+332,Ford,Fiesta,2018,https://auto.ria.com/uk/auto_ford_fiesta_30237176.html,10300, 60 тис. км , Херсон ," Бензин, 1.6 л. ", Автомат 
+333,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_30542887.html,7000, 139 тис. км , Кам'янське (Дніпродзержинськ) ," Дизель, 1.4 л. ", Ручна / Механіка 
+334,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30543116.html,5200, 151 тис. км , Запоріжжя ," Бензин, 1.4 л. ", Ручна / Механіка 
+335,Ford,Fiesta,2019,https://auto.ria.com/uk/auto_ford_fiesta_30541653.html,10500, 17 тис. км , Київ ," Бензин, 1.6 л. ", Автомат 
+336,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_30540497.html,5800, 140 тис. км , Львів ," Газ / Бензин, 1.4 л. ", Автомат 
+337,Ford,Fiesta,1992,https://auto.ria.com/uk/auto_ford_fiesta_30540054.html,1500, 400 тис. км , Кельменці ," Бензин, 1.1 л. ", Ручна / Механіка 
+338,Ford,Fiesta,2016,https://auto.ria.com/uk/auto_ford_fiesta_30246714.html,9300, 99 тис. км , Київ ," Бензин, 1 л. ", Автомат 
+339,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30539557.html,4400, 272 тис. км , Боярка , Бензин , Автомат 
+340,Ford,Fiesta,2014,https://auto.ria.com/uk/auto_ford_fiesta_29277350.html,8000, 93 тис. км , Дніпро (Дніпропетровськ) ," Бензин, 1 л. ", Автомат 
+341,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_30538946.html,6550, 170 тис. км , Львів ," Дизель, 1.4 л. ", Ручна / Механіка 
+342,Ford,Fiesta,2015,https://auto.ria.com/uk/auto_ford_fiesta_30538424.html,8300, 130 тис. км , Одеса ," Бензин, 1.6 л. ", Автомат 
+343,Ford,Fiesta,2015,https://auto.ria.com/uk/auto_ford_fiesta_30538153.html,5799, 105 тис. км , Вінниця ," Бензин, 1.6 л. ", Автомат 
+344,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30535697.html,5000, 157 тис. км , Запоріжжя ," Бензин, 1.2 л. ", Ручна / Механіка 
+345,Ford,Fiesta,2015,https://auto.ria.com/uk/auto_ford_fiesta_30534640.html,7800, 60 тис. км , Чернівці ," Бензин, 1.6 л. ", Автомат 
+346,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_30320945.html,5240, 147 тис. км , Ізмаїл ," Бензин, 1.4 л. ", Ручна / Механіка 
+347,Ford,Fiesta,2016,https://auto.ria.com/uk/auto_ford_fiesta_30534509.html,9400, 32 тис. км , Маріуполь ," Бензин, 1.2 л. ", Ручна / Механіка 
+348,Ford,Fiesta,2017,https://auto.ria.com/uk/auto_ford_fiesta_30148590.html,3600, 36 тис. км , Київ ," Бензин, 1.4 л. ", Ручна / Механіка 
+349,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_29633983.html,4100, 188 тис. км , Полтава ," Газ / Бензин, 1.2 л. ", Ручна / Механіка 
+350,Ford,Fiesta,2005,https://auto.ria.com/uk/auto_ford_fiesta_30533676.html,4550, 122 тис. км , Вінниця ," Газ / Бензин, 1.3 л. ", Ручна / Механіка 
+351,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_30238184.html,8000, 109 тис. км , Новомосковськ ," Дизель, 1.5 л. ", Ручна / Механіка 
+352,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_29247834.html,7800, 114 тис. км , Київ ," Бензин, 1 л. ", Ручна / Механіка 
+353,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_30532440.html,6000, 158 тис. км , Токмак ," Дизель, 1.6 л. ", Ручна / Механіка 
+354,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30532330.html,3800, 179 тис. км , Харків , Бензин , Ручна / Механіка 
+355,Ford,Fiesta,2004,https://auto.ria.com/uk/auto_ford_fiesta_17846888.html,5000, 170 тис. км , Біла Церква ," Бензин, 1.3 л. ", Ручна / Механіка 
+356,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_30530802.html,3500, 130 тис. км , Київ ," Бензин, 1.25 л. ", Ручна / Механіка 
+357,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30232032.html,4498, 136 тис. км , Вінниця ," Бензин, 1.25 л. ", Ручна / Механіка 
+358,Ford,Fiesta,2002,https://auto.ria.com/uk/auto_ford_fiesta_30529975.html,3800, 154 тис. км , Дніпро (Дніпропетровськ) , Бензин , Ручна / Механіка 
+359,Ford,Fiesta,2016,https://auto.ria.com/uk/auto_ford_fiesta_30527940.html,9400, 32 тис. км , Харків ," Бензин, 1.25 л. ", Ручна / Механіка 
+360,Ford,Fiesta,2010,https://auto.ria.com/uk/auto_ford_fiesta_30527760.html,6800, 167 тис. км , Баришівка ," Газ / Бензин, 1.2 л. ", Ручна / Механіка 
+361,Ford,Fiesta,2015,https://auto.ria.com/uk/auto_ford_fiesta_28695520.html,8100, 147 тис. км , Коломия ," Дизель, 1.5 л. ", Ручна / Механіка 
+362,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_20438426.html,4800, 150 тис. км , Дніпро (Дніпропетровськ) ," Бензин, 1.25 л. ", Ручна / Механіка 
+363,Ford,Fiesta,2005,https://auto.ria.com/uk/auto_ford_fiesta_30505868.html,3899, 114 тис. км , Новояворівськ ," Бензин, 1.3 л. ", Ручна / Механіка 
+364,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_29903874.html,4300, 245 тис. км , Гостомель ," Бензин, 1.25 л. ", Ручна / Механіка 
+365,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_29968026.html,3500, 270 тис. км , Київ ," Газ / Бензин, 1.4 л. ", Ручна / Механіка 
+366,Ford,Fiesta,1986,https://auto.ria.com/uk/auto_ford_fiesta_30525308.html,25000, 170 тис. км , Білозерка , Бензин , Ручна / Механіка 
+367,Ford,Fiesta,2016,https://auto.ria.com/uk/auto_ford_fiesta_15595275.html,11200, 25 тис. км , Харків ," Бензин, 1 л. ", Автомат 
+368,Ford,Fiesta,2010,https://auto.ria.com/uk/auto_ford_fiesta_30524002.html,6300, 223 тис. км , Буськ ," Дизель, 1.4 л. ", Ручна / Механіка 
+369,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_29874327.html,4200, 210 тис. км , Київ ," Газ / Бензин, 1.25 л. ", Ручна / Механіка 
+370,Ford,Fiesta,2005,https://auto.ria.com/uk/auto_ford_fiesta_30213578.html,4000, 220 тис. км , Слов'янськ ," Газ / Бензин, 1.25 л. ", Ручна / Механіка 
+371,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30522690.html,5000, 170 тис. км , Київ ," Бензин, 1.4 л. ", Робот 
+372,Ford,Fiesta,2005,https://auto.ria.com/uk/auto_ford_fiesta_29385816.html,4200, 110 тис. км , Мукачеве ," Бензин, 1.25 л. ", Ручна / Механіка 
+373,Ford,Fiesta,1994,https://auto.ria.com/uk/auto_ford_fiesta_30522029.html,1500, 325 тис. км , Городня ," Бензин, 1.3 л. ", Не вказано 
+374,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_30520518.html,6650, 113 тис. км , Київ ," Бензин, 1.2 л. ", Ручна / Механіка 
+375,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30520652.html,4300, 180 тис. км , Буча ," Газ / Бензин, 1.3 л. ", Ручна / Механіка 
+376,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_30519920.html,6500, 260 тис. км , Київ ," Дизель, 1.5 л. ", Ручна / Механіка 
+377,Ford,Fiesta,2000,https://auto.ria.com/uk/auto_ford_fiesta_30519224.html,1300, 300 тис. км , Олевськ , Дизель , Ручна / Механіка 
+378,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_29339901.html,5200, 160 тис. км , Біла Церква ," Бензин, 1.4 л. ", Робот 
+379,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_29916125.html,7500, 81 тис. км , Вінниця ," Бензин, 1.4 л. ", Типтронік 
+380,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_29898592.html,4000, 250 тис. км , Луцьк ," Бензин, 1.3 л. ", Ручна / Механіка 
+381,Ford,Fiesta,1996,https://auto.ria.com/uk/auto_ford_fiesta_29178357.html,2000, 200 тис. км , Долина , 1.3 л. , Ручна / Механіка 
+382,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_28333086.html,5350, 104 тис. км , Івано-Франківськ ," Бензин, 1.4 л. ", Ручна / Механіка 
+383,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_29901024.html,7350, 88 тис. км , Івано-Франківськ ," Бензин, 1 л. ", Ручна / Механіка 
+384,Ford,Fiesta,2015,https://auto.ria.com/uk/auto_ford_fiesta_30514783.html,9900, 18 тис. км , Косів ," Бензин, 1 л. ", Ручна / Механіка 
+385,Ford,Fiesta,2003,https://auto.ria.com/uk/auto_ford_fiesta_25641543.html,4999, 180 тис. км , Калуш ," Дизель, 1.4 л. ", Автомат 
+386,Ford,Fiesta,2014,https://auto.ria.com/uk/auto_ford_fiesta_27890256.html,6599, 157 тис. км , Львів ," Бензин, 1 л. ", Ручна / Механіка 
+387,Ford,Fiesta,2010,https://auto.ria.com/uk/auto_ford_fiesta_30219242.html,6000, 122 тис. км , Біла Церква ," Газ / Бензин, 1.25 л. ", Ручна / Механіка 
+388,Ford,Fiesta,2009,https://auto.ria.com/uk/auto_ford_fiesta_28217820.html,5555, 201 тис. км , Чернівці ," Бензин, 1.25 л. ", Ручна / Механіка 
+389,Ford,Fiesta,2017,https://auto.ria.com/uk/auto_ford_fiesta_24120468.html,10300, 78 тис. км , Житомир ," Бензин, 1.25 л. ", Ручна / Механіка 
+390,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_11947390.html,5300, 177 тис. км , Маріуполь ," Бензин, 1.4 л. ", Ручна / Механіка 
+391,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_17985416.html,8200, 130 тис. км , Київ ," Бензин, 1.24 л. ", Ручна / Механіка 
+392,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_30512925.html,5600, 107 тис. км , Хмельницький ," Газ / Бензин, 1.2 л. ", Не вказано 
+393,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_30512772.html,4650, 111 тис. км , Київ ," Бензин, 1.4 л. ", Ручна / Механіка 
+394,Ford,Fiesta,2004,https://auto.ria.com/uk/auto_ford_fiesta_30512273.html,4700, 163 тис. км , Маріуполь ," Газ / Бензин, 1.3 л. ", Не вказано 
+395,Ford,Fiesta,2016,https://auto.ria.com/uk/auto_ford_fiesta_30512174.html,9100, 99 тис. км , Запоріжжя ," Бензин, 1.6 л. ", Робот 
+396,Ford,Fiesta,2017,https://auto.ria.com/uk/auto_ford_fiesta_30512014.html,8500, 112 тис. км , Одеса ," Бензин, 1.6 л. ", Автомат 
+397,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_30511966.html,6950, 126 тис. км , Луцьк ," Бензин, 1.6 л. ", Ручна / Механіка 
+398,Ford,Fiesta,2014,https://auto.ria.com/uk/auto_ford_fiesta_30510388.html,7300, 43 тис. км , Львів ," Бензин, 1 л. ", Ручна / Механіка 
+399,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_30510177.html,7500, 130 тис. км , Київ ," Бензин, 1 л. ", Ручна / Механіка 
+400,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30509269.html,5700, 219 тис. км , Ужгород ," Бензин, 1.4 л. ", Автомат 
+401,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30508962.html,4750, 165 тис. км , Калуш ," Бензин, 1.3 л. ", Ручна / Механіка 
+402,Ford,Fiesta,2005,https://auto.ria.com/uk/auto_ford_fiesta_29616718.html,3650, 135 тис. км , Київ ," Бензин, 1.25 л. ", Ручна / Механіка 
+403,Ford,Fiesta,2015,https://auto.ria.com/uk/auto_ford_fiesta_30506866.html,8950, 118 тис. км , Черкаси ," Бензин, 1.6 л. ", Автомат 
+404,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30506492.html,4500, 192 тис. км , Маріуполь ," Бензин, 1.4 л. ", Ручна / Механіка 
+405,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_29072097.html,5700, 105 тис. км , Очаків ," Газ / Бензин, 1.3 л. ", Ручна / Механіка 
+406,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_29904362.html,4900, 175 тис. км , Калуш ," Газ / Бензин, 1.4 л. ", Ручна / Механіка 
+407,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_30200701.html,8000, 115 тис. км , Запоріжжя ," Бензин, 1 л. ", Ручна / Механіка 
+408,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_27825782.html,7000, 193 тис. км , Бровари ," Дизель, 1.5 л. ", Не вказано 
+409,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_27669667.html,7200, 111 тис. км , Київ ," Бензин, 1.2 л. ", Ручна / Механіка 
+410,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30504845.html,3990, 150 тис. км , Київ ," Бензин, 1.3 л. ", Ручна / Механіка 
+411,Ford,Fiesta,2016,https://auto.ria.com/uk/auto_ford_fiesta_30504041.html,7700, 145 тис. км , Стрий ," Дизель, 1.5 л. ", Ручна / Механіка 
+412,Ford,Fiesta,2017,https://auto.ria.com/uk/auto_ford_fiesta_30503369.html,11000, 31 тис. км , Одеса ," Газ / Бензин, 1.6 л. ", Автомат 
+413,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30501840.html,5200, 151 тис. км , Запоріжжя ," Бензин, 1.4 л. ", Ручна / Механіка 
+414,Ford,Fiesta,2015,https://auto.ria.com/uk/auto_ford_fiesta_30501282.html,7400, 65 тис. км , Київ ," Бензин, 1.6 л. ", Автомат 
+415,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_30501253.html,5799, 140 тис. км , Дніпро (Дніпропетровськ) ," Бензин, 1.4 л. ", Ручна / Механіка 
+416,Ford,Fiesta,2014,https://auto.ria.com/uk/auto_ford_fiesta_30499504.html,8850, 124 тис. км , Дніпро (Дніпропетровськ) ," Бензин, 1.6 л. ", Автомат 
+417,Ford,Fiesta,2005,https://auto.ria.com/uk/auto_ford_fiesta_29891616.html,3400, 195 тис. км , Одеса , Бензин , Робот 
+418,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_29543622.html,4699, 205 тис. км , Сміла ," Газ / Бензин, 1.4 л. ", Ручна / Механіка 
+419,Ford,Fiesta,2004,https://auto.ria.com/uk/auto_ford_fiesta_28083574.html,4199, 102 тис. км , Київ ," Бензин, 1.4 л. ", Ручна / Механіка 
+420,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_30496626.html,7600, 150 тис. км , Запоріжжя ," Бензин, 1.6 л. ", Не вказано 
+421,Ford,Fiesta,2010,https://auto.ria.com/uk/auto_ford_fiesta_30496429.html,6700, 185 тис. км , Бровари ," Дизель, 1.4 л. ", Ручна / Механіка 
+422,Ford,Fiesta,2015,https://auto.ria.com/uk/auto_ford_fiesta_30495971.html,8400, 63 тис. км , Олександрія ," Бензин, 1.6 л. ", Автомат 
+423,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_29687391.html,5300, 102 тис. км , Хуст , Бензин , Ручна / Механіка 
+424,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30495885.html,6500, 129 тис. км , Кривий Ріг , Бензин , Робот 
+425,Ford,Fiesta,2017,https://auto.ria.com/uk/auto_ford_fiesta_30495202.html,8700, 133 тис. км , Полтава ," Бензин, 1.6 л. ", Автомат 
+426,Ford,Fiesta,1989,https://auto.ria.com/uk/auto_ford_fiesta_30494508.html,1400, 200 тис. км , Вінниця ," Бензин, 1.1 л. ", Ручна / Механіка 
+427,Ford,Fiesta,2016,https://auto.ria.com/uk/auto_ford_fiesta_30494834.html,11000, 26 тис. км , Одеса ," Бензин, 1 л. ", Автомат 
+428,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_30194679.html,5600, 230 тис. км , Одеса ," Бензин, 1 л. ", Ручна / Механіка 
+429,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_30494799.html,8600, 113 тис. км , Запоріжжя ," Дизель, 1.5 л. ", Ручна / Механіка 
+430,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_30493131.html,5500, 131 тис. км , Бердичів ," Бензин, 1.2 л. ", Не вказано 
+431,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_30491604.html,7500, 31 тис. км , Маріуполь ," Бензин, 1.25 л. ", Ручна / Механіка 
+432,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30490335.html,4900, 92 тис. км , Харків , Бензин , Робот 
+433,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_29598001.html,4500, 127 тис. км , Ковель ," Бензин, 1.4 л. ", Ручна / Механіка 
+434,Ford,Fiesta,2017,https://auto.ria.com/uk/auto_ford_fiesta_30489094.html,9500, 75 тис. км , Київ ," Бензин, 1.6 л. ", Автомат 
+435,Ford,Fiesta,2004,https://auto.ria.com/uk/auto_ford_fiesta_30182515.html,4290, 204 тис. км , Одеса ," Бензин, 1.2 л. ", Ручна / Механіка 
+436,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30189557.html,4100, 101 тис. км , Козятин ," Бензин, 1.4 л. ", Ручна / Механіка 
+437,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_28780340.html,6500, 133 тис. км , Стрий ," Дизель, 1.4 л. ", Ручна / Механіка 
+438,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_28138196.html,5500, 215 тис. км , Львів ," Дизель, 1.5 л. ", Ручна / Механіка 
+439,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_30437618.html,3549, 299 тис. км , Свалява ," Бензин, 1.3 л. ", Ручна / Механіка 
+440,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_30485604.html,6500, 184 тис. км , Київ , Бензин , Автомат 
+441,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_28561409.html,5200, 157 тис. км , Рогатин ," Бензин, 1.4 л. ", Ручна / Механіка 
+442,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_30483756.html,6300, 250 тис. км , Житомир ," Дизель, 1.4 л. ", Ручна / Механіка 
+443,Ford,Fiesta,2017,https://auto.ria.com/uk/auto_ford_fiesta_29450844.html,9600, 73 тис. км , Ужгород , Бензин , Автомат 
+444,Ford,Fiesta,2017,https://auto.ria.com/uk/auto_ford_fiesta_30480900.html,10400, 125 тис. км , Київ ," Бензин, 1.6 л. ", Автомат 
+445,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30480762.html,4000, 107 тис. км , Боярка ," Бензин, 1.4 л. ", Не вказано 
+446,Ford,Fiesta,2019,https://auto.ria.com/uk/auto_ford_fiesta_30477751.html,8500, 15 тис. км , Дніпро (Дніпропетровськ) ," Бензин, 1.6 л. ", Автомат 
+447,Ford,Fiesta,2005,https://auto.ria.com/uk/auto_ford_fiesta_30476854.html,4500, 154 тис. км , Миколаїв ," Бензин, 1.4 л. ", Робот 
+448,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_30476681.html,4800, 181 тис. км , Київ ," Газ / Бензин, 1.4 л. ", Ручна / Механіка 
+449,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_30476478.html,8900, 56 тис. км , Київ ," Бензин, 1 л. ", Автомат 
+450,Ford,Fiesta,2015,https://auto.ria.com/uk/auto_ford_fiesta_30476233.html,9000, 159 тис. км , Дніпро (Дніпропетровськ) ," Бензин, 1.6 л. ", Ручна / Механіка 
+451,Ford,Fiesta,2015,https://auto.ria.com/uk/auto_ford_fiesta_30474565.html,8700, 48 тис. км , Київ ," Бензин, 1 л. ", Автомат 
+452,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30155366.html,4650, 209 тис. км , Вінниця ," Бензин, 1.4 л. ", Ручна / Механіка 
+453,Ford,Fiesta,2010,https://auto.ria.com/uk/auto_ford_fiesta_30473348.html,6699, 130 тис. км , Київ ," Газ / Бензин, 1.4 л. ", Автомат 
+454,Ford,Fiesta,2010,https://auto.ria.com/uk/auto_ford_fiesta_29777165.html,6300, 188 тис. км , Гайсин ," Дизель, 1.6 л. ", Ручна / Механіка 
+455,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_30471975.html,8000, 95 тис. км , Київ , Бензин , Автомат 
+456,Ford,Fiesta,2002,https://auto.ria.com/uk/auto_ford_fiesta_30001696.html,4850, 310 тис. км , Київ ," Дизель, 1.4 л. ", Ручна / Механіка 
+457,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30468755.html,5200, 70 тис. км , Харків , Бензин , Ручна / Механіка 
+458,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_30468825.html,9300, 50 тис. км , Київ ," Бензин, 1.25 л. ", Ручна / Механіка 
+459,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30468525.html,3100, 200 тис. км , Мукачеве ," Бензин, 1.2 л. ", Ручна / Механіка 
+460,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30468165.html,5999, 149 тис. км , Одеса ," Бензин, 2 л. ", Ручна / Механіка 
+461,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30467188.html,3700, 245 тис. км , Львів ," Дизель, 1.4 л. ", Ручна / Механіка 
+462,Ford,Fiesta,2009,https://auto.ria.com/uk/auto_ford_fiesta_29329565.html,6100, 150 тис. км , Херсон ," Бензин, 1.2 л. ", Ручна / Механіка 
+463,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30465231.html,4100, 237 тис. км , Хмельницький ," Бензин, 1.4 л. ", Ручна / Механіка 
+464,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30162105.html,4000, 141 тис. км , Хмельницький ," Бензин, 1.3 л. ", Ручна / Механіка 
+465,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30462791.html,4800, 195 тис. км , Миколаїв ," Газ / Бензин, 1.2 л. ", Ручна / Механіка 
+466,Ford,Fiesta,2014,https://auto.ria.com/uk/auto_ford_fiesta_30462546.html,8000, 98 тис. км , Дніпро (Дніпропетровськ) ," Бензин, 1.6 л. ", Робот 
+467,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_30455376.html,7000, 113 тис. км , Київ ," Дизель, 1.5 л. ", Ручна / Механіка 
+468,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_30462426.html,7000, 138 тис. км , Дніпро (Дніпропетровськ) ," Дизель, 1.4 л. ", Ручна / Механіка 
+469,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_30461214.html,4400, 182 тис. км , Острог ," Бензин, 1.4 л. ", Не вказано 
+470,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_30460124.html,6600, 135 тис. км , Вінниця ," Газ / Бензин, 1.2 л. ", Ручна / Механіка 
+471,Ford,Fiesta,2019,https://auto.ria.com/uk/auto_ford_fiesta_30191776.html,8900, 31 тис. км , Харків ," Бензин, 1.6 л. ", Автомат 
+472,Ford,Fiesta,1999,https://auto.ria.com/uk/auto_ford_fiesta_30154438.html,2300, 320 тис. км , Київ ," Газ / Бензин, 1.25 л. ", Ручна / Механіка 
+473,Ford,Fiesta,2016,https://auto.ria.com/uk/auto_ford_fiesta_30156829.html,9400, 34 тис. км , Львів ," Бензин, 1.25 л. ", Ручна / Механіка 
+474,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_30236797.html,8650, 100 тис. км , Київ ," Бензин, 1 л. ", Автомат 
+475,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_30016761.html,5000, 158 тис. км , Черкаси ," Бензин, 1.4 л. ", Ручна / Механіка 
+476,Ford,Fiesta,2010,https://auto.ria.com/uk/auto_ford_fiesta_30454978.html,6500, 212 тис. км , Луцьк ," Дизель, 1.4 л. ", Не вказано 
+477,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_30453180.html,6900, 63 тис. км , Чортків ," Бензин, 1 л. ", Ручна / Механіка 
+478,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_29674721.html,5500, 131 тис. км , Київ ," Бензин, 1.2 л. ", Ручна / Механіка 
+479,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_27876873.html,5100, 191 тис. км , Кременчук ," Дизель, 1.4 л. ", Ручна / Механіка 
+480,Ford,Fiesta,2005,https://auto.ria.com/uk/auto_ford_fiesta_28575487.html,3950, 152 тис. км , Вінниця ," Бензин, 1.4 л. ", Ручна / Механіка 
+481,Ford,Fiesta,1990,https://auto.ria.com/uk/auto_ford_fiesta_30450984.html,75000, 990 тис. км , Золотоноша ," Дизель, 1.8 л. ", Не вказано 
+482,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30450871.html,4990, 122 тис. км , Харків ," Бензин, 1.3 л. ", Ручна / Механіка 
+483,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_24811182.html,6250, 171 тис. км , Львів ," Дизель, 1.4 л. ", Ручна / Механіка 
+484,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_28270612.html,6500, 257 тис. км , Стрий ," Дизель, 1.4 л. ", Ручна / Механіка 
+485,Ford,Fiesta,2018,https://auto.ria.com/uk/auto_ford_fiesta_30449355.html,9800, 28 тис. км , Харків ," Бензин, 1.6 л. ", Робот 
+486,Ford,Fiesta,2018,https://auto.ria.com/uk/auto_ford_fiesta_30448807.html,9000, 87 тис. км , Запоріжжя ," Бензин, 1.6 л. ", Робот 
+487,Ford,Fiesta,2010,https://auto.ria.com/uk/auto_ford_fiesta_30427850.html,5800, 170 тис. км , Чернівці , Не вказано , Не вказано 
+488,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_30447307.html,5300, 199 тис. км , Галич ," Дизель, 1.4 л. ", Ручна / Механіка 
+489,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30430561.html,5500, 159 тис. км , Київ ," Бензин, 1.4 л. ", Робот 
+490,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30445406.html,3500, 171 тис. км , Бровари ," Бензин, 1.3 л. ", Ручна / Механіка 
+491,Ford,Fiesta,2014,https://auto.ria.com/uk/auto_ford_fiesta_26824825.html,8700, 50 тис. км , Київ ," Бензин, 1.25 л. ", Ручна / Механіка 
+492,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_23742000.html,4600, 300 тис. км , Генічеськ , Бензин , Ручна / Механіка 
+493,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30442569.html,4700, 140 тис. км , Запоріжжя ," Бензин, 1.2 л. ", Ручна / Механіка 
+494,Ford,Fiesta,1989,https://auto.ria.com/uk/auto_ford_fiesta_28097519.html,1500, 15 тис. км , Косів ," Бензин, 1.1 л. ", Ручна / Механіка 
+495,Ford,Fiesta,2016,https://auto.ria.com/uk/auto_ford_fiesta_30441934.html,9000, 44 тис. км , Рівне ," Бензин, 1.6 л. ", Автомат 
+496,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_30441033.html,7500, 113 тис. км , Київ ," Бензин, 1 л. ", Ручна / Механіка 
+497,Ford,Fiesta,1987,https://auto.ria.com/uk/auto_ford_fiesta_30110746.html,1150, 180 тис. км , Бердичів ," Бензин, 1.3 л. ", Не вказано 
+498,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30437668.html,4200, 192 тис. км , Ужгород ," Бензин, 1.2 л. ", Ручна / Механіка 
+499,Ford,Fiesta,2009,https://auto.ria.com/uk/auto_ford_fiesta_29508075.html,5500, 197 тис. км , Черкаси ," Дизель, 1.4 л. ", Ручна / Механіка 
+500,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_30436577.html,7700, 167 тис. км , Одеса ," Бензин, 1.39 л. ", Автомат 
+501,Ford,Fiesta,2003,https://auto.ria.com/uk/auto_ford_fiesta_30436311.html,4100, 164 тис. км , Рівне ," Бензин, 1.4 л. ", Робот 
+502,Ford,Fiesta,2015,https://auto.ria.com/uk/auto_ford_fiesta_29661933.html,9150, 99 тис. км , Київ ," Бензин, 1 л. ", Автомат 
+503,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_28573083.html,6500, 133 тис. км , Чорноморськ (Іллічівськ) ," Дизель, 1.4 л. ", Ручна / Механіка 
+504,Ford,Fiesta,2016,https://auto.ria.com/uk/auto_ford_fiesta_23883407.html,9800, 41 тис. км , Рівне ," Бензин, 1.25 л. ", Ручна / Механіка 
+505,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_22958295.html,4800, 170 тис. км , Херсон ," Газ / Бензин, 1.4 л. ", Ручна / Механіка 
+506,Ford,Fiesta,2015,https://auto.ria.com/uk/auto_ford_fiesta_30041231.html,8900, 73 тис. км , Харків ," Бензин, 1 л. ", Робот 
+507,Ford,Fiesta,2017,https://auto.ria.com/uk/auto_ford_fiesta_30430328.html,9200, 92 тис. км , Рівне ," Бензин, 1.6 л. ", Автомат 
+508,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_30103512.html,7800, 120 тис. км , Чорноморськ (Іллічівськ) ," Бензин, 1.4 л. ", Автомат 
+509,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30428086.html,4300, 156 тис. км , Дніпро (Дніпропетровськ) , Не вказано , Ручна / Механіка 
+510,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_28726950.html,4650, 165 тис. км , Івано-Франківськ ," Дизель, 1.4 л. ", Ручна / Механіка 
+511,Ford,Fiesta,2014,https://auto.ria.com/uk/auto_ford_fiesta_27241754.html,7000, 160 тис. км , Івано-Франківськ ," Бензин, 1 л. ", Ручна / Механіка 
+512,Ford,Fiesta,2016,https://auto.ria.com/uk/auto_ford_fiesta_30427200.html,8100, 87 тис. км , Ужгород ," Бензин, 1 л. ", Не вказано 
+513,Ford,Fiesta,2015,https://auto.ria.com/uk/auto_ford_fiesta_30427206.html,7750, 52 тис. км , Львів ," Бензин, 1 л. ", Ручна / Механіка 
+514,Ford,Fiesta,2016,https://auto.ria.com/uk/auto_ford_fiesta_30426494.html,7800, 132 тис. км , Львів ," Бензин, 1.25 л. ", Ручна / Механіка 
+515,Ford,Fiesta,2000,https://auto.ria.com/uk/auto_ford_fiesta_30149092.html,3300, 116 тис. км , Харків ," Газ / Бензин, 1.3 л. ", Ручна / Механіка 
+516,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30425632.html,4300, 180 тис. км , Станиця Луганська , Бензин , Ручна / Механіка 
+517,Ford,Fiesta,2010,https://auto.ria.com/uk/auto_ford_fiesta_24439744.html,5800, 280 тис. км , Біла Церква ," Дизель, 1.6 л. ", Ручна / Механіка 
+518,Ford,Fiesta,2019,https://auto.ria.com/uk/auto_ford_fiesta_30214838.html,9999, 45 тис. км , Київ ," Бензин, 1.6 л. ", Автомат 
+519,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_30417904.html,10000, 90 тис. км , Київ ," Бензин, 1.4 л. ", Автомат 
+520,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30416973.html,4600, 174 тис. км , Луцьк ," Бензин, 1.2 л. ", Не вказано 
+521,Ford,Fiesta,2016,https://auto.ria.com/uk/auto_ford_fiesta_29718294.html,10999, 19 тис. км , Київ ," Бензин, 1.6 л. ", Автомат 
+522,Ford,Fiesta,2014,https://auto.ria.com/uk/auto_ford_fiesta_30109780.html,7800, 100 тис. км , Київ ," Дизель, 1.5 л. ", Ручна / Механіка 
+523,Ford,Fiesta,2015,https://auto.ria.com/uk/auto_ford_fiesta_30117570.html,9099, 115 тис. км , Львів ," Бензин, 1.6 л. ", Автомат 
+524,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30079255.html,4450, 137 тис. км , Рава-Руська ," Бензин, 1.3 л. ", Ручна / Механіка 
+525,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_27011036.html,6400, 197 тис. км , Васильків ," Бензин, 1 л. ", Ручна / Механіка 
+526,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_30409443.html,5699, 151 тис. км , Дубно , Бензин , Ручна / Механіка 
+527,Ford,Fiesta,2005,https://auto.ria.com/uk/auto_ford_fiesta_30407426.html,3700, 195 тис. км , Калуш ," Бензин, 1.3 л. ", Ручна / Механіка 
+528,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_29759182.html,4900, 191 тис. км , Луцьк ," Дизель, 1.4 л. ", Ручна / Механіка 
+529,Ford,Fiesta,2010,https://auto.ria.com/uk/auto_ford_fiesta_30391545.html,5500, 127 тис. км , Кіцмань ," Бензин, 1.25 л. ", Ручна / Механіка 
+530,Ford,Fiesta,2014,https://auto.ria.com/uk/auto_ford_fiesta_20819789.html,8700, 44 тис. км , Хмельницький ," Газ / Бензин, 1 л. ", Автомат 
+531,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_30404938.html,4500, 130 тис. км , Лозова ," Газ / Бензин, 1.2 л. ", Ручна / Механіка 
+532,Ford,Fiesta,2016,https://auto.ria.com/uk/auto_ford_fiesta_30404196.html,7800, 73 тис. км , Харків ," Бензин, 1.6 л. ", Робот 
+533,Ford,Fiesta,2008,https://auto.ria.com/uk/auto_ford_fiesta_29780000.html,4200, 157 тис. км , Рівне ," Бензин, 1.2 л. ", Ручна / Механіка 
+534,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_30403215.html,8000, 139 тис. км , Львів ," Газ / Бензин, 1.4 л. ", Автомат 
+535,Ford,Fiesta,2015,https://auto.ria.com/uk/auto_ford_fiesta_30402858.html,8300, 80 тис. км , Івано-Франківськ ," Бензин, 1.6 л. ", Автомат 
+536,Ford,Fiesta,2018,https://auto.ria.com/uk/auto_ford_fiesta_29902258.html,13900, 31 тис. км , Енергодар ," Бензин, 1 л. ", Автомат 
+537,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_26088279.html,4600, 135 тис. км , Виноградів ," Дизель, 1.4 л. ", Ручна / Механіка 
+538,Ford,Fiesta,2015,https://auto.ria.com/uk/auto_ford_fiesta_21251891.html,14000, 44 тис. км , Одеса , Бензин , Автомат 
+539,Ford,Fiesta,2005,https://auto.ria.com/uk/auto_ford_fiesta_30103280.html,3900, 217 тис. км , Київ ," Бензин, 1.2 л. ", Ручна / Механіка 
+540,Ford,Fiesta,2015,https://auto.ria.com/uk/auto_ford_fiesta_29663989.html,8200, 142 тис. км , Коломия ," Дизель, 1.5 л. ", Ручна / Механіка 
+541,Ford,Fiesta,2004,https://auto.ria.com/uk/auto_ford_fiesta_29909060.html,4200, 165 тис. км , Вінниця ," Бензин, 1.3 л. ", Ручна / Механіка 
+542,Ford,Fiesta,2018,https://auto.ria.com/uk/auto_ford_fiesta_30396341.html,15000, 12 тис. км , Луцьк ," Бензин, 1 л. ", Автомат 
+543,Ford,Fiesta,1995,https://auto.ria.com/uk/auto_ford_fiesta_30395662.html,1800, 300 тис. км , Чернівці ," Бензин, 1.2 л. ", Ручна / Механіка 
+544,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_30360135.html,7300, 90 тис. км , Миколаїв ," Газ / Бензин, 1.2 л. ", Ручна / Механіка 
+545,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_28469956.html,4200, 206 тис. км , Львів ," Бензин, 1.25 л. ", Ручна / Механіка 
+546,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_29776344.html,5000, 218 тис. км , Буча ," Бензин, 1.4 л. ", Ручна / Механіка 
+547,Ford,Fiesta,2006,https://auto.ria.com/uk/auto_ford_fiesta_30389284.html,96000, 168 тис. км , Рівне ," Бензин, 1.4 л. ", Робот 
+548,Ford,Fiesta,2012,https://auto.ria.com/uk/auto_ford_fiesta_30389159.html,9700, 75 тис. км , Дніпро (Дніпропетровськ) ," Бензин, 1.4 л. ", Автомат 
+549,Ford,Fiesta,2011,https://auto.ria.com/uk/auto_ford_fiesta_30389217.html,8600, 102 тис. км , Сєвєродонецьк ," Бензин, 1.4 л. ", Автомат 
+550,Ford,Fiesta,2013,https://auto.ria.com/uk/auto_ford_fiesta_27934038.html,7600, 99 тис. км , Київ ," Бензин, 1 л. ", Ручна / Механіка 
+551,Ford,Fiesta,2003,https://auto.ria.com/uk/auto_ford_fiesta_30173948.html,3900, 270 тис. км , Одеса ," Газ / Бензин, 1.4 л. ", Ручна / Механіка 
+552,Ford,Fiesta,1987,https://auto.ria.com/uk/auto_ford_fiesta_29737110.html,2100, 16 тис. км , Запоріжжя ," Газ / Бензин, 0.96 л. ", Ручна / Механіка 
+553,Ford,Fiesta,2017,https://auto.ria.com/uk/auto_ford_fiesta_30173137.html,2990, 70 тис. км , Київ ," Бензин, 1.25 л. ", Ручна / Механіка 
+554,Ford,Fiesta,2009,https://auto.ria.com/uk/auto_ford_fiesta_30109140.html,5800, 150 тис. км , Київ ," Бензин, 1.2 л. ", Ручна / Механіка 
+555,Ford,Fiesta,2007,https://auto.ria.com/uk/auto_ford_fiesta_30100391.html,5200, 117 тис. км , Дрогобич ," Бензин, 1.2 л. ", Ручна / Механіка 
